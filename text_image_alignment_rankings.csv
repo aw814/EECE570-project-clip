@@ -1,0 +1,305 @@
+universal,region,rank,similarity
+A photo of a breakfast,united kingdom,1,0.2880898438869472
+A photo of a breakfast,canada,2,0.28764148464927364
+A photo of a breakfast,germany,3,0.2770547649279013
+A photo of a breakfast,united states of america,4,0.2743823128165309
+A photo of a breakfast,argentina,5,0.2639875479956613
+A photo of a breakfast,australia,6,0.26390114211776283
+A photo of a breakfast,new zealand,7,0.25405826410096605
+A photo of a breakfast,brazil,8,0.2523780049814324
+A photo of a breakfast,spain,9,0.2522748497852025
+A photo of a breakfast,south africa,10,0.25009621058754355
+A photo of a breakfast,fiji,11,0.24532089726340742
+A photo of a breakfast,nigeria,12,0.24244292796574682
+A photo of a breakfast,china,13,0.23549312865154126
+A photo of a breakfast,japan,14,0.23372101424136518
+A photo of a breakfast,egypt,15,0.2322485393902043
+A photo of a breakfast,india,16,0.22514742468623847
+A photo of a clothing,australia,1,0.25323141529260645
+A photo of a clothing,germany,2,0.24348586617342396
+A photo of a clothing,argentina,3,0.24298469611440787
+A photo of a clothing,united states of america,4,0.24109552844499968
+A photo of a clothing,egypt,5,0.23796967185995188
+A photo of a clothing,fiji,6,0.23768677441750652
+A photo of a clothing,japan,7,0.23408124250264925
+A photo of a clothing,united kingdom,8,0.2333222629822833
+A photo of a clothing,spain,9,0.232881945745832
+A photo of a clothing,india,10,0.22787125529431548
+A photo of a clothing,china,11,0.22281948014291442
+A photo of a clothing,brazil,12,0.22257560951992858
+A photo of a clothing,south africa,13,0.22147131729368139
+A photo of a clothing,nigeria,14,0.21774833504444582
+A photo of a clothing,new zealand,15,0.2142722933349143
+A photo of a clothing,canada,16,0.20191764812845917
+A photo of a dance,argentina,1,0.27810442157320864
+A photo of a dance,australia,2,0.2745048729173237
+A photo of a dance,united states of america,3,0.27244679805324834
+A photo of a dance,germany,4,0.2684631169487171
+A photo of a dance,india,5,0.26503353779879485
+A photo of a dance,spain,6,0.26357282464783893
+A photo of a dance,egypt,7,0.26037912192054236
+A photo of a dance,united kingdom,8,0.2520965620001889
+A photo of a dance,canada,9,0.2518937625177149
+A photo of a dance,china,10,0.2513972814209083
+A photo of a dance,south africa,11,0.24985129716521212
+A photo of a dance,japan,12,0.247758251487748
+A photo of a dance,new zealand,13,0.24670807085282295
+A photo of a dance,nigeria,14,0.24613010221497889
+A photo of a dance,brazil,15,0.24455612262401658
+A photo of a dance,fiji,16,0.24395960810619877
+A photo of a dessert,united kingdom,1,0.27803656420152945
+A photo of a dessert,new zealand,2,0.2700787881979649
+A photo of a dessert,south africa,3,0.26513751926550955
+A photo of a dessert,canada,4,0.2608957861615948
+A photo of a dessert,spain,5,0.26035658514430204
+A photo of a dessert,argentina,6,0.25655325229966464
+A photo of a dessert,germany,7,0.2547289706510319
+A photo of a dessert,australia,8,0.25074582047409716
+A photo of a dessert,brazil,9,0.24996162594858473
+A photo of a dessert,japan,10,0.2489777033183642
+A photo of a dessert,united states of america,11,0.2483894800186118
+A photo of a dessert,egypt,12,0.247629099182768
+A photo of a dessert,fiji,13,0.24461178847757617
+A photo of a dessert,nigeria,14,0.2407879919192948
+A photo of a dessert,china,15,0.23515847993551164
+A photo of a dessert,india,16,0.2347638493295534
+A photo of a dinner,china,1,0.2640551762405737
+A photo of a dinner,japan,2,0.25742437003439816
+A photo of a dinner,united kingdom,3,0.2524867712345372
+A photo of a dinner,india,4,0.25234404122423076
+A photo of a dinner,canada,5,0.24974016594957502
+A photo of a dinner,united states of america,6,0.2489026470975808
+A photo of a dinner,brazil,7,0.2477227737566017
+A photo of a dinner,fiji,8,0.24742336353553038
+A photo of a dinner,spain,9,0.24692237895750835
+A photo of a dinner,new zealand,10,0.24324238722369504
+A photo of a dinner,germany,11,0.24164863117768823
+A photo of a dinner,nigeria,12,0.24071687619508308
+A photo of a dinner,egypt,13,0.24067959931653804
+A photo of a dinner,argentina,14,0.24058103412638873
+A photo of a dinner,australia,15,0.23692139706623505
+A photo of a dinner,south africa,16,0.2341812545807551
+A photo of a drinks,australia,1,0.2682286734737495
+A photo of a drinks,united states of america,2,0.26758928146108
+A photo of a drinks,brazil,3,0.2669077346916253
+A photo of a drinks,spain,4,0.2650855303511907
+A photo of a drinks,new zealand,5,0.26115052106181286
+A photo of a drinks,canada,6,0.25220067256911366
+A photo of a drinks,fiji,7,0.24914335201524507
+A photo of a drinks,egypt,8,0.24892127845892062
+A photo of a drinks,japan,9,0.2449487592623593
+A photo of a drinks,germany,10,0.2441768996912642
+A photo of a drinks,china,11,0.24300457202555328
+A photo of a drinks,nigeria,12,0.23152353745095164
+A photo of a drinks,india,13,0.23061447621475306
+A photo of a drinks,south africa,14,0.22688609303297005
+A photo of a drinks,united kingdom,15,0.22110064197180615
+A photo of a drinks,argentina,16,0.2105723372540982
+A photo of a eating habits,united kingdom,1,0.25679604314699933
+A photo of a eating habits,china,2,0.2505698951298749
+A photo of a eating habits,germany,3,0.24792471834167495
+A photo of a eating habits,brazil,4,0.24079632995961772
+A photo of a eating habits,united states of america,5,0.2398850759782839
+A photo of a eating habits,spain,6,0.2389467238643034
+A photo of a eating habits,australia,7,0.23704624971442
+A photo of a eating habits,egypt,8,0.23489702573890414
+A photo of a eating habits,india,9,0.23267937518433393
+A photo of a eating habits,canada,10,0.2314389993379128
+A photo of a eating habits,argentina,11,0.2278644814990446
+A photo of a eating habits,new zealand,12,0.22785153874360184
+A photo of a eating habits,japan,13,0.224548414909565
+A photo of a eating habits,fiji,14,0.22387216133487445
+A photo of a eating habits,south africa,15,0.22231199003572444
+A photo of a eating habits,nigeria,16,0.2182486498405555
+A photo of a festival,new zealand,1,0.2757698233322039
+A photo of a festival,south africa,2,0.26855833488728154
+A photo of a festival,united kingdom,3,0.26833984236539077
+A photo of a festival,japan,4,0.2674468205153519
+A photo of a festival,india,5,0.26444152370204094
+A photo of a festival,nigeria,6,0.2625991058053612
+A photo of a festival,spain,7,0.26251310670810274
+A photo of a festival,australia,8,0.26215510578697837
+A photo of a festival,united states of america,9,0.26213822953069493
+A photo of a festival,china,10,0.26205154792528745
+A photo of a festival,argentina,11,0.26202401288652705
+A photo of a festival,brazil,12,0.25555767698661486
+A photo of a festival,germany,13,0.252496436512167
+A photo of a festival,canada,14,0.2519479193149536
+A photo of a festival,egypt,15,0.2505275600677559
+A photo of a festival,fiji,16,0.24984592998972477
+A photo of a funeral,japan,1,0.3007268714074968
+A photo of a funeral,nigeria,2,0.2988798201060922
+A photo of a funeral,germany,3,0.2981997492776763
+A photo of a funeral,new zealand,4,0.29619493737370156
+A photo of a funeral,fiji,5,0.29520888106238075
+A photo of a funeral,united states of america,6,0.29305507295689914
+A photo of a funeral,egypt,7,0.2927683217915093
+A photo of a funeral,united kingdom,8,0.29171160210175506
+A photo of a funeral,canada,9,0.28599298410591684
+A photo of a funeral,spain,10,0.28361831917767155
+A photo of a funeral,australia,11,0.2808106735955668
+A photo of a funeral,china,12,0.2793131163301727
+A photo of a funeral,south africa,13,0.263500707291024
+A photo of a funeral,argentina,14,0.2539343686213843
+A photo of a funeral,india,15,0.25292735040682734
+A photo of a funeral,brazil,16,0.25267160504420366
+A photo of a greeting,united states of america,1,0.2569582318225281
+A photo of a greeting,china,2,0.253728312647533
+A photo of a greeting,egypt,3,0.2536010104913916
+A photo of a greeting,japan,4,0.25234001291596475
+A photo of a greeting,united kingdom,5,0.2516274041263107
+A photo of a greeting,germany,6,0.2482586492617369
+A photo of a greeting,india,7,0.24793908134416684
+A photo of a greeting,spain,8,0.24283859732267996
+A photo of a greeting,nigeria,9,0.24119869219900095
+A photo of a greeting,new zealand,10,0.24013669104726
+A photo of a greeting,south africa,11,0.23481069943807956
+A photo of a greeting,australia,12,0.23437546316543792
+A photo of a greeting,brazil,13,0.2335728937776486
+A photo of a greeting,canada,14,0.23341658938230433
+A photo of a greeting,fiji,15,0.22980836813033156
+A photo of a greeting,argentina,16,0.22474959589830232
+A photo of a headcoverings,south africa,1,0.2708208536858994
+A photo of a headcoverings,china,2,0.26276160064582416
+A photo of a headcoverings,japan,3,0.26219084702328543
+A photo of a headcoverings,spain,4,0.25992344980892196
+A photo of a headcoverings,germany,5,0.25575702231486086
+A photo of a headcoverings,egypt,6,0.2541228555171529
+A photo of a headcoverings,india,7,0.24993134177075702
+A photo of a headcoverings,fiji,8,0.24795828659347632
+A photo of a headcoverings,argentina,9,0.24546023207862153
+A photo of a headcoverings,nigeria,10,0.2410799018358892
+A photo of a headcoverings,australia,11,0.23697603013615842
+A photo of a headcoverings,canada,12,0.23438631879167202
+A photo of a headcoverings,united kingdom,13,0.22995910102276076
+A photo of a headcoverings,brazil,14,0.21132549126806022
+A photo of a headcoverings,new zealand,15,0.21055262540367745
+A photo of a headcoverings,united states of america,16,0.20636598112186522
+A photo of a instrument,germany,1,0.28569151728974257
+A photo of a instrument,argentina,2,0.280804183890676
+A photo of a instrument,united states of america,3,0.27896877282851745
+A photo of a instrument,canada,4,0.27863193201071185
+A photo of a instrument,japan,5,0.27422511867182653
+A photo of a instrument,china,6,0.26734240921857977
+A photo of a instrument,australia,7,0.26357215824533475
+A photo of a instrument,brazil,8,0.26354756091365655
+A photo of a instrument,spain,9,0.2613901150543859
+A photo of a instrument,united kingdom,10,0.2610223199748127
+A photo of a instrument,nigeria,11,0.2603876114686586
+A photo of a instrument,egypt,12,0.2598532279360824
+A photo of a instrument,fiji,13,0.25436898448578976
+A photo of a instrument,india,14,0.25403097229650434
+A photo of a instrument,south africa,15,0.2527146517362641
+A photo of a instrument,new zealand,16,0.22711945765242914
+A photo of a lunch,japan,1,0.27784583468925805
+A photo of a lunch,india,2,0.2596870544774644
+A photo of a lunch,canada,3,0.25684456220603896
+A photo of a lunch,fiji,4,0.24582774083661127
+A photo of a lunch,china,5,0.24526928556443559
+A photo of a lunch,nigeria,6,0.24521716790864168
+A photo of a lunch,brazil,7,0.24493709928458665
+A photo of a lunch,south africa,8,0.2429005371914661
+A photo of a lunch,new zealand,9,0.24119558203062344
+A photo of a lunch,united states of america,10,0.24068995846857444
+A photo of a lunch,united kingdom,11,0.24027332384464758
+A photo of a lunch,egypt,12,0.238667545625606
+A photo of a lunch,germany,13,0.2376492290705899
+A photo of a lunch,argentina,14,0.23187319228222336
+A photo of a lunch,spain,15,0.23165655005620875
+A photo of a lunch,australia,16,0.2297355036116612
+A photo of a marriage,brazil,1,0.27961670732433336
+A photo of a marriage,germany,2,0.2776918975351969
+A photo of a marriage,india,3,0.277640089905278
+A photo of a marriage,new zealand,4,0.2764193362453246
+A photo of a marriage,argentina,5,0.276190731755461
+A photo of a marriage,canada,6,0.2712037433403894
+A photo of a marriage,egypt,7,0.270661190277891
+A photo of a marriage,australia,8,0.26989648535752897
+A photo of a marriage,united states of america,9,0.26812281057585724
+A photo of a marriage,spain,10,0.2676362241922668
+A photo of a marriage,south africa,11,0.2579024576217835
+A photo of a marriage,fiji,12,0.2565598446170681
+A photo of a marriage,united kingdom,13,0.256112842420995
+A photo of a marriage,nigeria,14,0.25530486996792334
+A photo of a marriage,china,15,0.25297632484569116
+A photo of a marriage,japan,16,0.250800727095303
+A photo of a music,spain,1,0.2529187371728793
+A photo of a music,argentina,2,0.25145984492513285
+A photo of a music,china,3,0.2511128350950567
+A photo of a music,nigeria,4,0.2436097445088715
+A photo of a music,australia,5,0.24332802252318567
+A photo of a music,india,6,0.24252940782826235
+A photo of a music,germany,7,0.2419205452130313
+A photo of a music,united kingdom,8,0.23923568172400225
+A photo of a music,japan,9,0.2343748212650658
+A photo of a music,egypt,10,0.23413910097850546
+A photo of a music,new zealand,11,0.23236486022727895
+A photo of a music,canada,12,0.23092920290343857
+A photo of a music,united states of america,13,0.23017606579519434
+A photo of a music,fiji,14,0.2291150033316228
+A photo of a music,south africa,15,0.22888706878095877
+A photo of a music,brazil,16,0.22886606709310486
+A photo of a religion,united states of america,1,0.2522423746869342
+A photo of a religion,spain,2,0.24759745305099604
+A photo of a religion,argentina,3,0.24390313297710145
+A photo of a religion,new zealand,4,0.24247047133790964
+A photo of a religion,canada,5,0.24232460123436497
+A photo of a religion,australia,6,0.24039125088215343
+A photo of a religion,egypt,7,0.23990256817050382
+A photo of a religion,china,8,0.23964323487774988
+A photo of a religion,brazil,9,0.23548565383946649
+A photo of a religion,south africa,10,0.23363506563416284
+A photo of a religion,united kingdom,11,0.2263671344885969
+A photo of a religion,india,12,0.224291497390643
+A photo of a religion,fiji,13,0.22398395546434538
+A photo of a religion,germany,14,0.2234298211239023
+A photo of a religion,nigeria,15,0.22164802629041738
+A photo of a religion,japan,16,0.22018495527733242
+A photo of a ritual,nigeria,1,0.2623949064028731
+A photo of a ritual,united kingdom,2,0.25826623126182985
+A photo of a ritual,argentina,3,0.25676296437751894
+A photo of a ritual,india,4,0.2550826220936537
+A photo of a ritual,spain,5,0.25477891616114756
+A photo of a ritual,germany,6,0.2504368920261686
+A photo of a ritual,fiji,7,0.2500760809128702
+A photo of a ritual,japan,8,0.24905561991908157
+A photo of a ritual,south africa,9,0.24393292154378246
+A photo of a ritual,united states of america,10,0.24154569701754616
+A photo of a ritual,china,11,0.2385280275474944
+A photo of a ritual,australia,12,0.2383136711642582
+A photo of a ritual,brazil,13,0.23546772627247317
+A photo of a ritual,egypt,14,0.22999588277105257
+A photo of a ritual,new zealand,15,0.2201035382958245
+A photo of a ritual,canada,16,0.21855095014803813
+A photo of a sports,japan,1,0.2599749332541622
+A photo of a sports,india,2,0.2599572723327502
+A photo of a sports,south africa,3,0.25298016664905326
+A photo of a sports,argentina,4,0.2528184735438342
+A photo of a sports,china,5,0.25162755573775547
+A photo of a sports,germany,6,0.25072168470633555
+A photo of a sports,spain,7,0.25033055281099326
+A photo of a sports,new zealand,8,0.24952004264276137
+A photo of a sports,united kingdom,9,0.248901863667312
+A photo of a sports,canada,10,0.24832548496781906
+A photo of a sports,egypt,11,0.24485564413054886
+A photo of a sports,fiji,12,0.24325497129920023
+A photo of a sports,united states of america,13,0.24099610234621768
+A photo of a sports,australia,14,0.2403359458532173
+A photo of a sports,brazil,15,0.2360627580983585
+A photo of a sports,nigeria,16,0.22092844173287304
+A photo of a transport,china,1,0.281194134852572
+A photo of a transport,india,2,0.2797740510960806
+A photo of a transport,brazil,3,0.276586697702129
+A photo of a transport,south africa,4,0.2680498652305697
+A photo of a transport,fiji,5,0.26697600779242864
+A photo of a transport,nigeria,6,0.264596517071023
+A photo of a transport,argentina,7,0.264017169643276
+A photo of a transport,spain,8,0.26153680608122015
+A photo of a transport,germany,9,0.2595676386741715
+A photo of a transport,egypt,10,0.2586056080611228
+A photo of a transport,australia,11,0.25849032889790596
+A photo of a transport,new zealand,12,0.2568099486936161
+A photo of a transport,united states of america,13,0.25633260246532474
+A photo of a transport,japan,14,0.2549177317717839
+A photo of a transport,united kingdom,15,0.2543278782324688
+A photo of a transport,canada,16,0.25223670708625656

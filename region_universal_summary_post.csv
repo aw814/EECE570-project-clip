@@ -1,0 +1,305 @@
+region,universal,count
+argentina,breakfast,3
+argentina,clothing,3
+argentina,dance,3
+argentina,dessert,3
+argentina,dinner,3
+argentina,drinks,3
+argentina,eating habits,3
+argentina,festival,3
+argentina,funeral,3
+argentina,greeting,3
+argentina,headcoverings,3
+argentina,instrument,3
+argentina,lunch,3
+argentina,marriage,3
+argentina,music,3
+argentina,religion,3
+argentina,ritual,3
+argentina,sports,3
+argentina,transport,3
+australia,breakfast,3
+australia,clothing,3
+australia,dance,3
+australia,dessert,3
+australia,dinner,3
+australia,drinks,3
+australia,eating habits,3
+australia,festival,3
+australia,funeral,3
+australia,greeting,3
+australia,headcoverings,3
+australia,instrument,3
+australia,lunch,3
+australia,marriage,3
+australia,music,3
+australia,religion,3
+australia,ritual,3
+australia,sports,3
+australia,transport,3
+brazil,breakfast,3
+brazil,clothing,3
+brazil,dance,3
+brazil,dessert,3
+brazil,dinner,3
+brazil,drinks,3
+brazil,eating habits,3
+brazil,festival,3
+brazil,funeral,3
+brazil,greeting,3
+brazil,headcoverings,3
+brazil,instrument,3
+brazil,lunch,3
+brazil,marriage,3
+brazil,music,3
+brazil,religion,3
+brazil,ritual,3
+brazil,sports,3
+brazil,transport,3
+canada,breakfast,3
+canada,clothing,3
+canada,dance,3
+canada,dessert,3
+canada,dinner,3
+canada,drinks,3
+canada,eating habits,3
+canada,festival,3
+canada,funeral,3
+canada,greeting,3
+canada,headcoverings,3
+canada,instrument,3
+canada,lunch,3
+canada,marriage,3
+canada,music,3
+canada,religion,3
+canada,ritual,3
+canada,sports,3
+canada,transport,3
+china,breakfast,3
+china,clothing,3
+china,dance,3
+china,dessert,3
+china,dinner,3
+china,drinks,3
+china,eating habits,3
+china,festival,3
+china,funeral,3
+china,greeting,3
+china,headcoverings,3
+china,instrument,3
+china,lunch,3
+china,marriage,3
+china,music,3
+china,religion,3
+china,ritual,3
+china,sports,3
+china,transport,3
+egypt,breakfast,3
+egypt,clothing,3
+egypt,dance,3
+egypt,dessert,3
+egypt,dinner,3
+egypt,drinks,3
+egypt,eating habits,3
+egypt,festival,3
+egypt,funeral,3
+egypt,greeting,3
+egypt,headcoverings,3
+egypt,instrument,3
+egypt,lunch,3
+egypt,marriage,3
+egypt,music,3
+egypt,religion,3
+egypt,ritual,3
+egypt,sports,3
+egypt,transport,3
+fiji,breakfast,3
+fiji,clothing,3
+fiji,dance,3
+fiji,dessert,3
+fiji,dinner,3
+fiji,drinks,3
+fiji,eating habits,3
+fiji,festival,3
+fiji,funeral,3
+fiji,greeting,3
+fiji,headcoverings,3
+fiji,instrument,3
+fiji,lunch,3
+fiji,marriage,3
+fiji,music,3
+fiji,religion,3
+fiji,ritual,3
+fiji,sports,3
+fiji,transport,3
+germany,breakfast,3
+germany,clothing,3
+germany,dance,3
+germany,dessert,3
+germany,dinner,3
+germany,drinks,3
+germany,eating habits,3
+germany,festival,3
+germany,funeral,3
+germany,greeting,3
+germany,headcoverings,3
+germany,instrument,3
+germany,lunch,3
+germany,marriage,3
+germany,music,3
+germany,religion,3
+germany,ritual,3
+germany,sports,3
+germany,transport,3
+india,breakfast,3
+india,clothing,3
+india,dance,3
+india,dessert,3
+india,dinner,3
+india,drinks,3
+india,eating habits,3
+india,festival,3
+india,funeral,3
+india,greeting,3
+india,headcoverings,3
+india,instrument,3
+india,lunch,3
+india,marriage,3
+india,music,3
+india,religion,3
+india,ritual,3
+india,sports,3
+india,transport,3
+japan,breakfast,3
+japan,clothing,3
+japan,dance,3
+japan,dessert,3
+japan,dinner,3
+japan,drinks,3
+japan,eating habits,3
+japan,festival,3
+japan,funeral,3
+japan,greeting,3
+japan,headcoverings,3
+japan,instrument,3
+japan,lunch,3
+japan,marriage,3
+japan,music,3
+japan,religion,3
+japan,ritual,3
+japan,sports,3
+japan,transport,3
+new zealand,breakfast,3
+new zealand,clothing,3
+new zealand,dance,3
+new zealand,dessert,3
+new zealand,dinner,3
+new zealand,drinks,3
+new zealand,eating habits,3
+new zealand,festival,3
+new zealand,funeral,3
+new zealand,greeting,3
+new zealand,headcoverings,3
+new zealand,instrument,3
+new zealand,lunch,3
+new zealand,marriage,3
+new zealand,music,3
+new zealand,religion,3
+new zealand,ritual,3
+new zealand,sports,3
+new zealand,transport,3
+nigeria,breakfast,3
+nigeria,clothing,3
+nigeria,dance,3
+nigeria,dessert,3
+nigeria,dinner,3
+nigeria,drinks,3
+nigeria,eating habits,3
+nigeria,festival,3
+nigeria,funeral,3
+nigeria,greeting,3
+nigeria,headcoverings,3
+nigeria,instrument,3
+nigeria,lunch,3
+nigeria,marriage,3
+nigeria,music,3
+nigeria,religion,3
+nigeria,ritual,3
+nigeria,sports,3
+nigeria,transport,3
+south africa,breakfast,3
+south africa,clothing,3
+south africa,dance,3
+south africa,dessert,3
+south africa,dinner,3
+south africa,drinks,3
+south africa,eating habits,3
+south africa,festival,3
+south africa,funeral,3
+south africa,greeting,3
+south africa,headcoverings,3
+south africa,instrument,3
+south africa,lunch,3
+south africa,marriage,3
+south africa,music,3
+south africa,religion,3
+south africa,ritual,3
+south africa,sports,3
+south africa,transport,3
+spain,breakfast,3
+spain,clothing,3
+spain,dance,3
+spain,dessert,3
+spain,dinner,3
+spain,drinks,3
+spain,eating habits,3
+spain,festival,3
+spain,funeral,3
+spain,greeting,3
+spain,headcoverings,3
+spain,instrument,3
+spain,lunch,3
+spain,marriage,3
+spain,music,3
+spain,religion,3
+spain,ritual,3
+spain,sports,3
+spain,transport,3
+united kingdom,breakfast,3
+united kingdom,clothing,3
+united kingdom,dance,3
+united kingdom,dessert,3
+united kingdom,dinner,3
+united kingdom,drinks,3
+united kingdom,eating habits,3
+united kingdom,festival,3
+united kingdom,funeral,3
+united kingdom,greeting,3
+united kingdom,headcoverings,3
+united kingdom,instrument,3
+united kingdom,lunch,3
+united kingdom,marriage,3
+united kingdom,music,3
+united kingdom,religion,3
+united kingdom,ritual,3
+united kingdom,sports,3
+united kingdom,transport,3
+united states of america,breakfast,3
+united states of america,clothing,3
+united states of america,dance,3
+united states of america,dessert,3
+united states of america,dinner,3
+united states of america,drinks,3
+united states of america,eating habits,3
+united states of america,festival,3
+united states of america,funeral,3
+united states of america,greeting,3
+united states of america,headcoverings,3
+united states of america,instrument,3
+united states of america,lunch,3
+united states of america,marriage,3
+united states of america,music,3
+united states of america,religion,3
+united states of america,ritual,3
+united states of america,sports,3
+united states of america,transport,3
